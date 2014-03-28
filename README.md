@@ -3,6 +3,7 @@
 * Phone: 902-394-1549
 * Email: ncphillips@upei.ca
 * [Github](www.github.com/ncphillips)
+* [Resume](www.github.com/ncphillips/ncphillips)
 * [LinkedIn](ca.linkedin.com/pub/nolan-phillips/68/935/702/)
 
 ## Skills
