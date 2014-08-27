@@ -7,21 +7,46 @@
 * [LinkedIn](ca.linkedin.com/pub/nolan-phillips/68/935/702/)
 
 ## Skills
-* **Programming Languages:** Python, Objective-C, C, PHP, Java, Ruby
+* **Programming Languages:** Python, Objective-C, C, PHP, Java
 * **Markup/SS:** XML, XPath, XML Schema, HTML & CSS
 * **Frameworks:**
 	* **Python:** Django
 	* **PHP:** Drupal, Islandora
 	* **Objective-C:** Cocoa Touch
-	* **Ruby:** RubyOnRails, Sinatra
-* **Operating Systems:** Ubuntu, Mac OSX, iOS, Android, ArchLinux, 
-* **UNIX Utilities:** Awk, Sed, Grep, Bash
-* **Applications:** MySQL Workbench, PHPStorm/PyCharms, Microsoft Office, Blast2Go
+* **Operating Systems:** Ubuntu, Mac OSX, iOS, Android
+* **Applications:** PHPStorm/PyCharms, Microsoft Office, Blast2Go
 * **Data Storage Systems:** MySQL, Fedora Commons, HDF5
 * **Servers:** Apache, Tomcat
-* **Search:** Solr, 
+* **Search:** Solr
 
 ## Experience
+### Robertson Library Programmer - 2014
+A continuation of the CS 482 Project. 
+
+I Worked on developing three modules for the Islandora project, and used those module's to help build the new UPEI Marine & Natural Products Lab website. Almost all code was completely re-written as a result of increased knowledge. 
+
+#### Islandora CModel Drupal Module
+* Introduces CModel subtyping/polymorphism
+* Introduces CModel relationship definitions
+* A CModel creation UI
+
+[Github Link](https://github.com/ncphillips/islandora_cmodel)
+
+#### Islandora Related Content Drupal Module
+* Tab for viewing a data object's related content.
+* Takes advantage of the Islandora CModel function to dynamically create this Tab.
+* Defines many new hooks for altering the way related content is displayed and filtered upon.
+* Ingest new content when looking at an object to automatically create the expected relationship.
+
+[Github Link](https://github.com/ncphillips/islandora_related_content)
+
+
+#### Islandora Solr Queryset Drupal Module
+* Provides classes for building and executing Solr queries.
+* Define Solr queries using a novel array grammars.
+
+[Github Link](https://github.com/ncphillips/islandora_solr_query_set)
+
 ### CS 482 Islandora Bioinformatics Project - Backend Team Lead - 2014
 * **Team Lead:** 
 	* Managed scrum team: reviewing deliverables, planning sprints, setting up meetings. 
