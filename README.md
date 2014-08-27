@@ -117,3 +117,10 @@ __Related Links__
 #### University of Prince Edward Island, 2010 - 2014
 * Bachelors of Computer Science, with a Biology Minor - 2014
 * Recipient of the Harrison McCaine Scholarship
+* 
+
+## Publications
+#### WholeCellSimDB: a hybrid relational/HDF database for whole-cell model predictions
+
+**Date:** Not yet released
+**Publisher:** DATABASE
