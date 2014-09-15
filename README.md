@@ -86,18 +86,18 @@ Performed various tasks related to several of Bell Aliant's services: Video OnDe
 
 **Documentation:**
 
-* Updated and formatted documents intended for new employees explainging how to perform various tasks. 
+* Updated and formatted documents intended for new employees explaining how to perform various tasks using Bell Aliant systems.
 
 
 **Tools Used:** 
 
 * **Awk/Sed:** Wrote scripts to quickly pull required information from various reports and format them correctly.
-* **Microsoft Outlook/:** Used Outlook
+* **Microsoft Outlook/:** Outlook for emails and scheduling, along with Word for creating documentation.
 
 ### Whole Cell DB - Developer - Summer 2013
 * **Python/Django:** 
 	* Used the Django ORM and H5Py to create a custom HDF5/MySQL hybrid database. 
-	* Stores output from the Whole Cell Model simulation runs (<400Mb)
+	* Stores output from the Whole Cell Model simulation runs (>400Mb)
 	* Output is stored as a set of n-dimensional arrays within the HDF5 files. Natively these HDF5 files are not searchable.
 	* Made HDF5 files searchable by indexing their arrays in MySQL and coupling the records with  HDF5 objects via the Django ORM and H5Py library.
 
@@ -117,7 +117,6 @@ __Related Links__
 #### University of Prince Edward Island, 2010 - 2014
 * Bachelors of Computer Science, with a Biology Minor - 2014
 * Recipient of the Harrison McCaine Scholarship
-* 
 
 ## Publications
 #### WholeCellSimDB: a hybrid relational/HDF database for whole-cell model predictions
