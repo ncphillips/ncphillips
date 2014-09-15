@@ -20,7 +20,10 @@
 * **Search:** Solr
 
 ## Experience
-### Robertson Library Programmer - 2014
+### UPEI Research Assistant
+Assisting Professor Scott Bateman on various projects in the field of Human Computer Interaction.
+
+### Robertson Library Programmer - May to August 2014
 A continuation of the CS 482 Project. 
 
 I Worked on developing three modules for the Islandora project, and used those module's to help build the new UPEI Marine & Natural Products Lab website. Almost all code was completely re-written as a result of increased knowledge. 
