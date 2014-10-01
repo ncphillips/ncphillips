@@ -2,44 +2,52 @@
 ## Contact Information
 * Phone: 902-394-1549
 * Email: ncphillips@upei.ca
-* [Github](www.github.com/ncphillips)
-* [Resume](www.github.com/ncphillips/ncphillips)
+* [Github: www.github.com/ncphillips](www.github.com/ncphillips)
+* [Resume: www.github.com/ncphillips/resume](www.github.com/ncphillips/resume)
 * [LinkedIn](ca.linkedin.com/pub/nolan-phillips/68/935/702/)
 
 ## Skills
-* **Programming Languages:** Python, Objective-C, C, PHP, Java
-* **Markup/SS:** XML, XPath, XML Schema, HTML & CSS
-* **Frameworks:**
+
+* **Development Processes:** Agile/Scrum
+* **Programming Languages:** Javascript, Python, Objective-C, C, PHP, Java
+* **Markup:** XML, XPath, XML Schema, HTML & CSS, Markdown, LaTeX
+* **Frameworks and Platforms:**
 	* **Python:** Django
 	* **PHP:** Drupal, Islandora
-	* **Objective-C:** Cocoa Touch
+	* **Javascript:** NodeJS
 * **Operating Systems:** Ubuntu, Mac OSX, iOS, Android
-* **Applications:** PHPStorm/PyCharms, Microsoft Office, Blast2Go
+* **Applications:** PHPStorm, Microsoft Office, Blast2Go, 
 * **Data Storage Systems:** MySQL, Fedora Commons, HDF5
 * **Servers:** Apache, Tomcat
 * **Search:** Solr
 
 ## Experience
 ### UPEI Research Assistant
-Assisting Professor Scott Bateman on various projects in the field of Human Computer Interaction.
+Assisting Dr. Scott Bateman on various projects in the field of Human Computer Interaction.
+
+#### Crowdsourcing
+ * Reasearching two Crowdsourcing platforms: **Crowdflower**, and **Amazon's Mechanical Turk**.
+ * Contributing to the **nodejs-crowdflower** library developed by Scott Bateman's former employee.
+
+
 
 ### Robertson Library Programmer - May to August 2014
 A continuation of the CS 482 Project. 
 
-I Worked on developing three modules for the Islandora project, and used those module's to help build the new UPEI Marine & Natural Products Lab website. Almost all code was completely re-written as a result of increased knowledge. 
+Developed three modules for the Islandora project, and used those module's to help build the new UPEI Marine & Natural Products Lab website. 
 
 #### Islandora CModel Drupal Module
 * Introduces CModel subtyping/polymorphism
 * Introduces CModel relationship definitions
-* A CModel creation UI
+* A CModel creation UI (In Progress)
 
 [Github Link](https://github.com/ncphillips/islandora_cmodel)
 
 #### Islandora Related Content Drupal Module
-* Tab for viewing a data object's related content.
-* Takes advantage of the Islandora CModel function to dynamically create this Tab.
-* Defines many new hooks for altering the way related content is displayed and filtered upon.
-* Ingest new content when looking at an object to automatically create the expected relationship.
+* Drupal tab for viewing a data object's related content.
+* Takes advantage of the Islandora CModel function to populate this tab dynamically.
+* Defines new drupal hooks for altering the way related content is displayed and filtered upon.
+* Allows users to create child content on the fly, instead of manually setting the relationship after the object 
 
 [Github Link](https://github.com/ncphillips/islandora_related_content)
 
@@ -66,7 +74,7 @@ __Related Links__
 * [Specimen (Github)](http://www.github.com/ncphillips/islandora_lab_object_specimen)
 * [Assay (Github)](http://www.github.com/ncphillips/islandora_lab_object_assay)
 * [Genesequence (Github)](http://www.github.com/ncphillips/islandora_lab_object_genesequence)
-* [LCMS](http://www.github.com/ncphillips/islandora_lab_object_lcms)
+* [LCMS (Github)](http://www.github.com/ncphillips/islandora_lab_object_lcms)
 
 ### Bell Aliant - Network Operations Technician - Summer/Fall 2013
 Performed various tasks related to several of Bell Aliant's services: Video OnDemand; Home Security; IP Security; physical & digital network.
@@ -123,6 +131,11 @@ __Related Links__
 
 ## Publications
 #### WholeCellSimDB: a hybrid relational/HDF database for whole-cell model predictions
+Jonathan R. Karr; Nolan C. Phillips; Markus W. Covert
 
-**Date:** Not yet released
-**Publisher:** DATABASE
+Database 2014;
+
+doi: 10.1093/database/bau095
+
+[Abstract](http://database.oxfordjournals.org/cgi/content/abstract/bau095?
+ijkey=zWkdaKziz1kFmPt&keytype=ref)
