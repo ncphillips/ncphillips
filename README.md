@@ -9,27 +9,26 @@
 ## Skills
 
 * **Development Processes:** Agile/Scrum
-* **Programming Languages:** Javascript, Python, Objective-C, C, PHP, Java
+* **Programming Languages:** Javascript, Python, PHP, Objective-C, C, Java
 * **Markup:** XML, XPath, XML Schema, HTML & CSS, Markdown, LaTeX
 * **Frameworks and Platforms:**
 	* **Python:** Django
 	* **PHP:** Drupal, Islandora
-	* **Javascript:** NodeJS
-* **Operating Systems:** Ubuntu, Mac OSX, iOS, Android
-* **Applications:** PHPStorm, Microsoft Office, Blast2Go, 
-* **Data Storage Systems:** MySQL, Fedora Commons, HDF5
-* **Servers:** Apache, Tomcat
-* **Search:** Solr
+	* **Javascript:** NodeJS, AngularJS
+* **Operating Systems:** Ubuntu Linux, Mac OSX, iOS, Android
+* **Data Storage:** MySQL, MongoDB, Fedora Commons, HDF5
+* **Server:** Apache, Tomcat
+* **Search:** Solr, SQL, SPARQL
+* **Other:** Vagrant
 
 ## Experience
 ### UPEI Research Assistant
-Assisting Dr. Scott Bateman on various projects in the field of Human Computer Interaction.
+Working under Dr. Scott Bateman in researching crowdwork. 
 
 #### Crowdsourcing
  * Reasearching two Crowdsourcing platforms: **Crowdflower**, and **Amazon's Mechanical Turk**.
  * Contributing to the **nodejs-crowdflower** library developed by Scott Bateman's former employee.
-
-
+ * Created a **meanjs-crowdflower**, a web service for linking Crowdflower together Job's into workflows. 
 
 ### Robertson Library Programmer - May to August 2014
 A continuation of the CS 482 Project. 
@@ -41,7 +40,7 @@ Developed three modules for the Islandora project, and used those module's to he
 * Introduces CModel relationship definitions
 * A CModel creation UI (In Progress)
 
-[Github Link](https://github.com/ncphillips/islandora_cmodel)
+[Github Link:](https://github.com/ncphillips/islandora_cmodel)  /ncphillips/islandora_cmodel
 
 #### Islandora Related Content Drupal Module
 * Drupal tab for viewing a data object's related content.
@@ -49,14 +48,14 @@ Developed three modules for the Islandora project, and used those module's to he
 * Defines new drupal hooks for altering the way related content is displayed and filtered upon.
 * Allows users to create child content on the fly, instead of manually setting the relationship after the object 
 
-[Github Link](https://github.com/ncphillips/islandora_related_content)
+[Github Link:](https://github.com/ncphillips/islandora_related_content) /ncphillips/islandora_related_content
 
 
 #### Islandora Solr Queryset Drupal Module
 * Provides classes for building and executing Solr queries.
-* Define Solr queries using a novel array grammars.
+* Solr queries are defined using arrays, in a grammar I developed.
 
-[Github Link](https://github.com/ncphillips/islandora_solr_query_set)
+[Github Link:](https://github.com/ncphillips/islandora_solr_query_set) /ncphillips/islandora_solr_query_set
 
 ### CS 482 Islandora Bioinformatics Project - Backend Team Lead - 2014
 * **Team Lead:** 
@@ -66,15 +65,6 @@ Developed three modules for the Islandora project, and used those module's to he
 	* Extended the open source Islandora project to work with bioinformatics data.
 	* Developed novel Islandora features such as abstract content types, relationships between content types, and a UI for managing related content.
 	* Began updating the UPEI Kerr Labs website to Drupal/Islandora 7 and implemented the new Bioinformatics features for storing bioassay, lcms, and genesequence data pertaining to specimen in the lab.
-
-__Related Links__
-
-* [UPEI Kerr Lab Website](http://www.upeikerrlab.ca)
-* [Base (Github)](http://www.github.com/ncphillips/islandora_bioinformatics_base)
-* [Specimen (Github)](http://www.github.com/ncphillips/islandora_lab_object_specimen)
-* [Assay (Github)](http://www.github.com/ncphillips/islandora_lab_object_assay)
-* [Genesequence (Github)](http://www.github.com/ncphillips/islandora_lab_object_genesequence)
-* [LCMS (Github)](http://www.github.com/ncphillips/islandora_lab_object_lcms)
 
 ### Bell Aliant - Network Operations Technician - Summer/Fall 2013
 Performed various tasks related to several of Bell Aliant's services: Video OnDemand; Home Security; IP Security; physical & digital network.
@@ -127,7 +117,7 @@ __Related Links__
 ## Education
 #### University of Prince Edward Island, 2010 - 2014
 * Bachelors of Computer Science, with a Biology Minor - 2014
-* Recipient of the Harrison McCaine Scholarship
+* Recipient of the Harrison McCaine Scholarship, 2010-2014
 
 ## Publications
 #### WholeCellSimDB: a hybrid relational/HDF database for whole-cell model predictions
@@ -137,5 +127,5 @@ Database 2014;
 
 doi: 10.1093/database/bau095
 
-[Abstract](http://database.oxfordjournals.org/cgi/content/abstract/bau095?
+[Link to Abstract](http://database.oxfordjournals.org/cgi/content/abstract/bau095?
 ijkey=zWkdaKziz1kFmPt&keytype=ref)
