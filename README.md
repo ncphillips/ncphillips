@@ -25,10 +25,9 @@
 ### UPEI Research Assistant
 Working under Dr. Scott Bateman in researching crowdwork. 
 
-#### Crowdsourcing
- * Reasearching two Crowdsourcing platforms: **Crowdflower**, and **Amazon's Mechanical Turk**.
+ * Reasearching the differences between two crowdwork platforms: **Crowdflower**, and **Amazon's Mechanical Turk**.
  * Contributing to the **nodejs-crowdflower** library developed by Scott Bateman's former employee.
- * Created a **meanjs-crowdflower**, a web service for linking Crowdflower together Job's into workflows. 
+ * Created **meanjs-crowdflower**, a web service for linking Crowdflower together Job's into workflows. 
 
 ### Robertson Library Programmer - May to August 2014
 A continuation of the CS 482 Project. 
