@@ -14,10 +14,10 @@
 * **Frameworks and Platforms:**
 	* **Python:** Django
 	* **PHP:** Drupal, Islandora
-	* **Javascript:** NodeJS, AngularJS
-* **Operating Systems:** Ubuntu Linux, Mac OSX, iOS, Android
+	* **Javascript:** NodeJS, AngularJS, AngularJS
+* **Operating Systems:** Ubuntu Linux, Mac OSX, iOS
 * **Data Storage:** MySQL, MongoDB, Fedora Commons, HDF5
-* **Server:** Apache, Tomcat
+* **Server:** Apache, Tomcat, 
 * **Search:** Solr, SQL, SPARQL
 * **Other:** Vagrant
 
