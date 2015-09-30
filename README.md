@@ -22,8 +22,8 @@
 * **Other:** Vagrant
 
 ## Experience
-### UPEI Research Assistant
-Working under Dr. Scott Bateman in researching crowdwork. 
+### UPEI Research Developer
+Working under Dr. Scott Bateman to research crowdwork. 
 
  * Created **meanjs-crowdflower**, a web service for linking together Crowdflower Job's into workflows. 
  * Created **crowdstudy**, a Node project for running crowdwork related experiments. The experiments were created with React.
