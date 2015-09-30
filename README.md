@@ -1,6 +1,6 @@
 # Nolan Phillips
 ## Contact Information
-* Phone: 902-394-1549
+* Phone: 9023941549
 * Email: ncphillips@upei.ca
 * [Github: www.github.com/ncphillips](www.github.com/ncphillips)
 * [Resume: www.github.com/ncphillips/resume](www.github.com/ncphillips/resume)
@@ -73,3 +73,6 @@ doi: 10.1093/database/bau095
 
 [Link to Abstract](http://database.oxfordjournals.org/cgi/content/abstract/bau095?
 ijkey=zWkdaKziz1kFmPt&keytype=ref)
+
+## References
+Details about my references are hidden for privacy reasons, 
