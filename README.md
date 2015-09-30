@@ -29,7 +29,7 @@ Working under Dr. Scott Bateman to research crowdwork.
  * Created **crowdstudy**, a Node project for running crowdwork related experiments. The experiments were created with React.
 
 ### Robertson Library Programmer - May to August 2014
-Developed three Drupal modules for the Islandora project, and used those module's to help build the new UPEI Marine & Natural Products Lab website. 
+Developed three Drupal modules for the Islandora project, and used those module's to help build the new [UPEI Marine & Natural Products Lab](http://www.upeikerrlab.ca/) website. 
 
 * [Content Model subtyping/polymorphism](https://github.com/ncphillips/islandora_cmodel)
 * [Content Model relationship definitions](https://github.com/ncphillips/islandora_related_content)
@@ -53,8 +53,9 @@ __Related Links__
  
  * [WholeCellDB](http://wholecelldb.stanford.edu)
  * [Git Repository](https://github.com/CovertLab/WholeCellDB)
+ * [Publication](http://www.ncbi.nlm.nih.gov/pubmed/25231498)
  
-### Hoplite Labs, UPEI - Student Researcher/Programmer - Summer 2012
+### Hoplite Labs, UPEI - Student Researcher & Programmer - Summer 2012
 * Set up a DNA database with BLAST searching capabilities.
 * Used existing tools to analyze DNA sequences.
 
