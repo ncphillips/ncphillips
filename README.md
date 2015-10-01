@@ -1,4 +1,10 @@
 # Nolan Phillips
+
+For the past year, I have been doing research at UPEI with Scott Bateman.During this time I created several web apps using 
+MongoDB, Node.js, Angular, and React. Aside from development I got to improve my academic research and writing skills, and 
+learn to analyze data collected by our experiments. I am looking for a full-time position starting in mid-November, either in
+Charlottetown PE or remotely.
+
 ## Contact Information
 * Phone: 9023941549
 * Email: ncphillips@upei.ca
