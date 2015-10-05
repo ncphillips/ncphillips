@@ -61,7 +61,11 @@ __Related Links__
  
 ### Hoplite Labs, UPEI - Student Researcher & Programmer - Summer 2012
 * Set up a DNA database with search using the BLAST algorithm.
-* Used existing tools to analyze the gene experession levels of flounder DNA.
+* Used existing tools to analyze the gene experession levels of flounder DNA. This work was later contributed to the publication below.
+
+__Related Links__
+
+* Publication  | http://www.sciencedirect.com/science/article/pii/S1744117X15000076
 
 ## Education
 #### University of Prince Edward Island, 2010 - 2014
