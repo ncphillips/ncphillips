@@ -82,5 +82,14 @@ doi: 10.1093/database/bau095
 [Link to Abstract](http://database.oxfordjournals.org/cgi/content/abstract/bau095?
 ijkey=zWkdaKziz1kFmPt&keytype=ref)
 
+#### Spatial patterns in markers of contaminant exposure in juvenile winter flounder 
+A.E. McElrow, L.A. Hice, M.G. Frisk, S.L. Purcell, N.C. Phillips, M.D. Fast
+
+Comparative Biochemistry and Physiology Part D: Genomics and Proteomics, June 2015
+
+doi:10.1016/j.cbd.2015.01.006
+
+[Link to Abstract](http://www.sciencedirect.com/science/article/pii/S1744117X15000076)
+
 ## References
 Details about my references are hidden for privacy reasons, 
