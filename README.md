@@ -1,19 +1,17 @@
 # Nolan Phillips
 
-For the past year, I have been doing research at UPEI with Scott Bateman.During this time I created several web apps using 
-MongoDB, Node.js, Angular, and React. Aside from development I got to improve my academic research and writing skills, and 
-learn to analyze data collected by our experiments. I am looking for a full-time position starting in mid-November, either in
-Charlottetown PE or remotely.
+Looking for a full-time position
+
+Starting: November 2015
 
 ## Contact Information
-* Phone: 9023941549
+* Phone: +19023941549
 * Email: ncphillips@upei.ca
 * [Github: www.github.com/ncphillips](www.github.com/ncphillips)
 * [Resume: www.github.com/ncphillips/resume](www.github.com/ncphillips/resume)
 * [LinkedIn](ca.linkedin.com/pub/nolan-phillips/68/935/702/)
 
 ## Skills
-
 * **Development Processes:** Agile/Scrum
 * **Programming Languages:** Javascript, Python, PHP, Objective-C, C, Java
 * **Markup:** XML/Path/Schema, HTML, CSS
@@ -32,7 +30,7 @@ Charlottetown PE or remotely.
 Working under Dr. Scott Bateman to research crowdwork. 
 
  * Created **meanjs-crowdflower**, a web service for linking together Crowdflower Job's into workflows. 
- * Created **crowdstudy**, a Node project for running crowdwork related experiments. The experiments were created with React.
+ * Created **crowdstudy**, a Node/React project for running crowdwork related experiments. 
 
 ### Robertson Library Programmer - May to August 2014
 Developed three Drupal modules for the Islandora project, and used those module's to help build the new [UPEI Marine & Natural Products Lab](http://www.upeikerrlab.ca/) website. 
@@ -53,7 +51,7 @@ Developed three Drupal modules for the Islandora project, and used those module'
 
 ### Whole Cell DB - Developer - Summer 2013
 * Created a Django website for displaying WholeCellSim results.
-* Used the Django ORM and H5Py to create a novel HDF5/SQL hybrid database. 
+* Used the Django ORM and H5Py to create a novel HDF5/SQL hybrid database.
 
 __Related Links__
  
@@ -62,8 +60,8 @@ __Related Links__
  * [Publication](http://www.ncbi.nlm.nih.gov/pubmed/25231498)
  
 ### Hoplite Labs, UPEI - Student Researcher & Programmer - Summer 2012
-* Set up a DNA database with BLAST searching capabilities.
-* Used existing tools to analyze DNA sequences.
+* Set up a DNA database with search using the BLAST algorithm.
+* Used existing tools to analyze the gene experession levels of flounder DNA.
 
 ## Education
 #### University of Prince Edward Island, 2010 - 2014
